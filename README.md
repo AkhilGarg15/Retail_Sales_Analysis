@@ -216,6 +216,5 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 3. Adjust queries or extend the analysis to suit additional business needs.
 
 
-## Author
-- **Akhil Garg** 
+## Author- Akhil Garg
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
